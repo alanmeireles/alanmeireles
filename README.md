@@ -1,6 +1,6 @@
 # Hi, I'm Alan Meireles
 
-Cybersecurity student and small-business web builder based in **American Fork, Utah**. I work in Portuguese and English.
+Cybersecurity student and small-business web builder based in **American Fork, Utah**.
 
 ## Focus
 
