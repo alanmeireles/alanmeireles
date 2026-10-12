@@ -1,15 +1,16 @@
 # Hi, I'm Alan Meireles
 
-Cybersecurity student and small-business web builder based in **American Fork, Utah**.
+Cybersecurity graduate and small-business web builder based in **American Fork, Utah**. I build practical websites and develop hands-on security skills through lab projects.
 
 ## Focus
 
-- **Security:** SOC Tier 1 / junior analyst path — home lab with pfSense, Wazuh, Ubuntu, and Kali
-- **Web & automation:** practical sites and tooling for small businesses
+- **Web design & development:** small-business websites, responsive layouts, and usability
+- **Cybersecurity & IT:** network security, Linux, troubleshooting, and security monitoring in a home lab
+- **Freelance services:** website updates, layout improvements, and technical problem-solving
 
 ## Education
 
-- **A.S. Cybersecurity** — Lumos College (expected 2026)
+- **A.S. Cybersecurity** — Lumos College, graduated 2026
 - **MBA, International Business** — UNIP, Brazil
 - **Bachelor's in Tourism** — Cruzeiro do Sul, Brazil
 
@@ -17,13 +18,14 @@ Cybersecurity student and small-business web builder based in **American Fork, U
 
 | Project | Description |
 |---------|-------------|
-| [littlecraftdesign](https://github.com/alanmeireles/littlecraftdesign) | Static site for [Little Craft Design](https://alanmeireles.github.io/littlecraftdesign/) — custom cake toppers & party decor (family small business) |
-| [Potifolio](https://github.com/alanmeireles/Potifolio) | Professional portfolio site for an educator (HTML/CSS) |
+| [Little Craft Design](https://github.com/alanmeireles/littlecraftdesign) | Small-business website for custom cake toppers and party decor. [View live site](https://alanmeireles.github.io/littlecraftdesign/). |
+| [EcoScience](https://github.com/alanmeireles/ecoscience) | Environmental education website project, in development. |
+| [Portfolio](https://github.com/alanmeireles/Potifolio) | HTML/CSS portfolio website project. |
 
-## Lab & interests
+## Cybersecurity lab
 
-Home cyber lab for hands-on practice: network security (pfSense), SIEM/monitoring (Wazuh), and Linux (Ubuntu / Kali). Building toward entry-level SOC and security analyst roles.
+Hands-on work with **pfSense, Wazuh, Ubuntu, Kali Linux, VirtualBox, and VMware**, focused on network security, monitoring, system administration, and technical documentation. Lab work is ongoing.
 
 ---
 
-*American Fork, UT · PT / EN*
+*American Fork, Utah · English / Português*
